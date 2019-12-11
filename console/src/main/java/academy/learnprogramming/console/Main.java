@@ -9,7 +9,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class Main {
 
    public static void main(String[] args) {
-
+        // checking if merg is happening
         log.info("Guess The Number Game");
 
         // create context (container)
